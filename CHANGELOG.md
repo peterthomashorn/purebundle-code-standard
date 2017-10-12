@@ -1,6 +1,6 @@
-# PureBasic Code Standard Changes
+# PureBundle Code Standard Changes
 
-This file summarizes relevant changes between the different versions of the PureBasic Code Standard.
+This file summarizes relevant changes between the different versions of the PureBundle Code Standard.
 
 ## 1.0.0
 

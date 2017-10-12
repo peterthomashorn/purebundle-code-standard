@@ -1,4 +1,4 @@
-# PureBasic Code Standard
+# PureBundle Code Standard
 
 More a formalized memo to myself than something I intended for wider adoption. I must admit: a few phrases are shamelessly copied from [PSR-1](http://www.php-fig.org/psr/psr-1/) and [PSR-2](http://www.php-fig.org/psr/psr-2/).
 
