@@ -19,7 +19,7 @@ The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL 
 
 ## Indentation
 
-* Code MUST use **two spaces** for a level of indentation, not tabs. Generally, maintaining low levels of indentation is an indicator for good code style. But combined with descriptive naming and high indentation levels it can get absurd fast. Two spaces is enough to make the document outline readable.
+* Code MUST use **four spaces** for a level of indentation, not tabs. Generally, maintaining low levels of indentation is an indicator for good code style. But combined with descriptive naming and high indentation levels it can get absurd fast. Four spaces is enough to make the document outline readable.
 * Each keyword for control flow MUST increase the level of indentation in the line after.
 
 ## Empty Lines
